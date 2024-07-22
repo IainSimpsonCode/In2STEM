@@ -33,6 +33,7 @@ For the PC to upload code to the Arduino's, we will need to install a driver to 
 - Find where you downloaded the driver on your PC (This will usually be in the Downloads folder)
 - Unzip the folder
 
+- Plug in an Arduino device
 - Search for Device Manager in the start tab
 - Find the device that says USB to UART
 - Right click and select Update Drivers
